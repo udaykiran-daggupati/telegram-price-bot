@@ -4,7 +4,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 from telegram import Bot
-
+#sanity check
 BOT_TOKEN = os.getenv("8341222978:AAGBVcZpUBflaiU3cS0g8XlmMir_q1GeNxs")
 CHANNEL_ID = os.getenv("-1003571934893")
 
