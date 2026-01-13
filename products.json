@@ -1,10 +1,12 @@
 [
   {
+    "id": "boat_100",
     "name": "boAt BassHeads 100",
-    "url": "https://www.amazon.in/boAt-BassHeads-100-Headphones-Black/dp/B071Z8M4KX/ref=sr_1_6?sr=8-6"
+    "url": "https://www.amazon.in/..."
   },
   {
+    "id": "boult_earbuds",
     "name": "Boult wireless earbuds",
-    "url": "https://www.amazon.in/Boult-Wireless-Earbuds-Playtime-Charging/dp/B0D3R1JQ7D/ref=sr_1_21_sspa?nsdOptOutParam=true&sr=8-21-spons&aref=iVJE3qU6jE&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY"
+    "url": "https://www.amazon.in/..."
   }
 ]
