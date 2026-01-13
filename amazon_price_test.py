@@ -5,9 +5,8 @@ import requests
 from bs4 import BeautifulSoup
 from telegram import Bot
 #sanity check
-BOT_TOKEN = os.getenv("8341222978:AAGBVcZpUBflaiU3cS0g8XlmMir_q1GeNxs")
-CHANNEL_ID = os.getenv("-1003571934893")
-
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+CHANNEL_ID = os.getenv("CHANNEL_ID")
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
